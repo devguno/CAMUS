@@ -12,6 +12,7 @@
 *.ctxt
 *.hdf5
 *.csv
+*.nii
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
